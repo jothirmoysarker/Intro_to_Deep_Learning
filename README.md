@@ -29,3 +29,16 @@ You can find the official Kaggle course here: [Intro to Deep Learning](https://w
 - Model Saving & Loading
 
 ---
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow / Keras
+- PyTorch
+- Jupyter Notebook
+
+---

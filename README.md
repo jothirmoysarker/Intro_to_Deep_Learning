@@ -7,3 +7,25 @@ This repository combines theoretical concepts with hands-on implementations to d
 You can find the official Kaggle course here: [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 
 ---
+
+## Topics Covered
+
+- Introduction to Neural Networks
+- Perceptrons & Artificial Neurons
+- Forward Propagation
+- Backpropagation
+- Loss Functions
+- Gradient Descent
+- Optimization Techniques
+- Activation Functions
+- Model Training
+- Model Evaluation
+- Fully Connected Neural Networks
+- Convolutional Neural Networks (CNNs)
+- Regularization
+- Overfitting & Underfitting
+- Dataset Preparation
+- Training & Validation
+- Model Saving & Loading
+
+---
